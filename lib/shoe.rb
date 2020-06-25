@@ -8,4 +8,6 @@ class Shoe
   
   attr_reader :brand
   
+  atrr_accessor 
+  
 end
